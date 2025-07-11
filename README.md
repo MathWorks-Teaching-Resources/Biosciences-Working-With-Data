@@ -8,7 +8,7 @@ This module will teach students how to load, explore, and visualize ecologically
 
 This module utilizes the Palmer penguins [1] dataset, which contains data about three different species of penguin in Antarctica. 
 
-<img src="images/640px-2007_Snow-Hill-Island_Luyten-De-Hauwere-Adelie-Penguin-23.jpg" width=50% height=50%>
+<img src="images/640px-2007_Snow-Hill-Island_Luyten-De-Hauwere-Adelie-Penguin-23.jpg" width=50%>
 
 
 
