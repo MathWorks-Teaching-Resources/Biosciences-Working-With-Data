@@ -43,7 +43,11 @@ The scripts have areas for the students to interact with the code ![](images/try
 
 ## Related Courseware Modules
 
-Link to 5 other modules here once set up. 
+- [Biosciences: Statistical Methods](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)
+- [Biosciences: Image Processing](https://www.mathworks.com/matlabcentral/fileexchange/163701-biosciences-image-processing)
+- [Biosciences: Machine Learning](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning)
+- [Biosciences: Genetics](https://www.mathworks.com/matlabcentral/fileexchange/163706-biosciences-genetics)
+
 
 ## Products 
 
