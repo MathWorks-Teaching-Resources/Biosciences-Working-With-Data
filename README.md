@@ -59,7 +59,7 @@ MATLAB®, Statistics and Machine Learning Toolbox™
 
 ## License
 
-The License for this project is in the [License.txt](license.txt) file in this repository. 
+The License for this project is in the [LICENSE.md](LICENSE.md) file in this repository. 
 
 ##
 _Copyright 2025 The MathWorks, Inc._
