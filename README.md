@@ -1,5 +1,5 @@
 # Biosciences: Working with Data
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Working-With-Data&file=S1_Introduction.mlx)
+[![View Biosciences: Working With Data on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/181586-biosciences-working-with-data) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Working-With-Data&file=S1_Introduction.mlx)
 
 This curriculum module uses biological data to teach fundamental concepts of data analysis. 
 
