@@ -1,0 +1,58 @@
+# List of untracked files to ignore
+
+# Autosave files
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# MATLAB Drive
+*.MATLABDriveTag
+
+# Compiled files
+*.mex*
+*.p
+
+# Compressed files
+*.zip
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Deployable archives
+*.ctf
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Defined Simulink cache folder
+Utilities/SimulinkCache/*
+
+# Standard code generation folders
+slprj/
+sccprj/
+codegen/
+
+# Code generation file
+*.eep
+*.elf
+*.hex
+*.bin
+
+# Cache files
+*.slxc
+
+# Testing and CI related artifact
+public/
+.buildtool/
+ci_utilities/
+
+# AI Tooling
+.playwright-mcp/
+
+# Module data and authoring artifacts
+Data/penguins.csv
+InternalFiles/ExternalLinkHealth.md
+Utilities/ProjectSettings.mat
