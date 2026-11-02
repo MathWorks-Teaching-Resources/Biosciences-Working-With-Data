@@ -13,6 +13,8 @@ This module uses the Palmer penguins dataset to introduce loading, exploring, an
 
 _Created with R2025a. Compatible with R2025a and later releases._
 
+For MATLAB R2024b or older, download the [legacy `.mlx` release](https://github.com/MathWorks-Teaching-Resources/Biosciences-Working-With-Data/releases/tag/mlx).
+
 # Information
 
 This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that use biological data to teach fundamental concepts of statistics, data analysis, and data visualization. 
